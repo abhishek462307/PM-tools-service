@@ -4,7 +4,7 @@
   "private": true,
   "description": "Self-hosted AI tool microservice — web search, scraping, file extraction",
   "scripts": {
-    "dev": "next dev -p 4000",
+    "dev": "next dev -p 4001",
     "build": "next build",
     "start": "next start",
     "lint": "eslint . --ext .ts,.tsx",
