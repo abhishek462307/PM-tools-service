@@ -1,0 +1,5 @@
+export { extractPdf } from './pdf'
+export { extractDocx } from './docx'
+export { extractXlsx } from './xlsx'
+export { extractCsv } from './csv'
+export { extractImage } from './image'
